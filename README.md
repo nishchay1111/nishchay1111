@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋, I'm Nishchay</h1>
+<h1 align="left">Hey there 👋, I'm Kumar</h1>
 
 <p align="left">
   Welcome to my GitHub profile! I'm passionate about AI tools & Agents, Applicaton Devlopment and continuous learning.
